@@ -1,14 +1,18 @@
 body {
     padding-left: 100px;
+    background-color: #dac292;
 
 }
 
 input{
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     width: 200px;
 }
 
 span{
     padding-top: 20px;
 }
-
+form{
+  background-color: #c4b7a6;
+  padding:20,20,20,20;
+}
